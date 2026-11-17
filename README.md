@@ -12,6 +12,37 @@ The goal was not only to answer a research question, but to demonstrate the abil
 
 ---
 
+## Installation
+
+```bash
+git clone https://github.com/niecestroa/pro-categorical-analysis-bmi.git
+
+cd pro-categorical-analysis-bmi
+
+pip install -r requirements.txt
+```
+
+## Skills Demonstrated
+
+- Categorical Data Analysis
+- Ordinal Logistic Regression
+- Partial Proportional Odds Models
+- Public Health Analytics
+- Biostatistics
+- Statistical Inference
+- Model Diagnostics
+- Epidemiologic Research
+- Survey Data Analysis
+- Health Outcomes Research
+- Data Cleaning
+- Exploratory Data Analysis
+- Python Programming
+- SAS Programming
+- R Programming
+- Reproducible Research
+
+---
+
 # **Abstract**
 
 **Background:**  
@@ -191,3 +222,6 @@ The project includes:
 
 This work demonstrates my ability to translate academic statistical methods into **clean, reproducible, industry‑aligned analytical workflows** suitable for biostatistics, clinical research, and public health analytics.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
